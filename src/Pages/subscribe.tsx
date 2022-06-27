@@ -21,7 +21,7 @@ export function Subscribe() {
         email,
       },
     });
-    navigate("/event");
+    navigate("/event/lesson/abertura-ignite-lab-o-poder-do-react-js");
   }
 
   return (
